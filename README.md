@@ -1,0 +1,1 @@
+# lambda-edge-cdn-s3-resize
